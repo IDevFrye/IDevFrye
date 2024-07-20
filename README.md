@@ -25,7 +25,7 @@
 ---
 ### :man_technologist: About Me
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My name is Andrey Kostin. I am a Software Engineering student.
-- :briefcase: I’m working as a <b>IT Project Administrator</b> and contributing to the planning and management of cybersecurity projects.
+- :briefcase: I’m working as an <b>IT Project Administrator</b> and contributing to the planning and management of cybersecurity projects.
 - :mortar_board: I am a 3rd year student at St. Petersburg State Polytechnical University in the field of <b>Software Engineering</b>.
 - :night_with_stars: I am learning <b>Fullstack Development</b> on my own because this is my dream profession.
 - :black_nib: I am interested in Graphic and <b>Web Design</b> too.
