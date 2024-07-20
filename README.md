@@ -90,4 +90,5 @@
 ### :fire: My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IDevFrye&theme=dark&mode=weekly&background=60%2C000000%2C463A8AA6&border=FFFFFF&stroke=371793&ring=371793&fire=5F28FF&currStreakNum=FFFFFF&sideNums=EBEBEB&currStreakLabel=5F28FF)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idevfrye&layout=compact&theme=catppuccin_mocha&langs_count=4)
 
