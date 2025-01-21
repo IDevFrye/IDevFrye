@@ -64,6 +64,13 @@
       <td>Sep 2024 - Jan 2025</td>
     </tr>
     <tr>
+      <td align="center"><img src="https://avatars.githubusercontent.com/u/115413384?s=200&v=4" title="VK Education" alt="VK Education" width="70"></td>
+      <td>
+        <b>Professional retraining program</b><br>"System Design"
+      </td>
+      <td>Sep 2024 - Jan 2025</td>
+    </tr>
+    <tr>
       <td align="center"><img src="https://i.otzovik.com/objects/b/2000000/1995390.png" title="Онлайн-школа Methed" alt="Онлайн-школа Methed" width="150"></td>
       <td>
         <b>Professional retraining program</b><br>"JavaScript (React) Frontend Developer"
