@@ -67,7 +67,7 @@
       <td align="center"><img src="https://avatars.githubusercontent.com/u/115413384?s=200&v=4" title="VK Education" alt="VK Education" width="70"></td>
       <td>
         <b>Professional retraining program</b><br>"System Design"<br>
-        ![VKcert_page-0001](https://github.com/user-attachments/assets/0b97ed16-31a0-435b-ab7a-3af0f12e275c)
+        ![Описание картинки](https://github.com/IDevFrye/IDevFrye/blob/main/VK_SystemDesign.png)
       </td>
       <td>Sep 2024 - Jan 2025</td>
     </tr>
