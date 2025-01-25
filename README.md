@@ -66,7 +66,8 @@
     <tr>
       <td align="center"><img src="https://avatars.githubusercontent.com/u/115413384?s=200&v=4" title="VK Education" alt="VK Education" width="70"></td>
       <td>
-        <b>Professional retraining program</b><br>"System Design"
+        <b>Professional retraining program</b><br>"System Design"<br>
+        ![VKcert_page-0001](https://github.com/user-attachments/assets/0b97ed16-31a0-435b-ab7a-3af0f12e275c)
       </td>
       <td>Sep 2024 - Jan 2025</td>
     </tr>
@@ -91,7 +92,8 @@
 ### :hammer_and_wrench: Languages and Tools
 > studied
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master![VKcert_page-0001](https://github.com/user-attachments/assets/2701ea70-835e-4bfa-aedb-0b3d203aa02a)
+/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap 5" alt="Bootstrap 5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
