@@ -38,7 +38,8 @@
     <tr>
       <td align="center"><img src="https://www.spbstu.ru/local/templates/main/img/logo.png" title="Цифровые кафедры СПбПУ" alt="Цифровые кафедры СПбПУ" width="80"></td>
       <td>
-        <b>Professional retraining program</b><br>"Software and Information Systems Architect"
+        <b>Professional retraining program</b><br>"Software and Information Systems Architect"<br>
+        <a href="https://github.com/IDevFrye/IDevFrye/blob/main/Polytech_SArch_RL.pdf">Recomendation Letter</a>
       </td>
       <td>Aug 2023 - Jun 2024</td>
     </tr>
@@ -67,7 +68,7 @@
       <td align="center"><img src="https://avatars.githubusercontent.com/u/115413384?s=200&v=4" title="VK Education" alt="VK Education" width="70"></td>
       <td>
         <b>Professional retraining program</b><br>"System Design"<br>
-        <a href="https://github.com/IDevFrye/IDevFrye/blob/main/VK_SystemDesign.jpg">Сертификат</a>
+        <a href="https://github.com/IDevFrye/IDevFrye/blob/main/VK_SystemDesign.jpg">Certificate</a>
       </td>
       <td>Sep 2024 - Jan 2025</td>
     </tr>
