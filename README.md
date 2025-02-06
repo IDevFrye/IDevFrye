@@ -73,16 +73,17 @@
       <td>Sep 2024 - Jan 2025</td>
     </tr>
     <tr>
-      <td align="center"><img src="https://i.otzovik.com/objects/b/2000000/1995390.png" title="Онлайн-школа Methed" alt="Онлайн-школа Methed" width="150"></td>
-      <td>
-        <b>Professional retraining program</b><br>"JavaScript (React) Frontend Developer"
-      </td>
-      <td>since Dec 2024</td>
-    </tr>
-    <tr>
       <td align="center"><img src="https://ritfest.ru/i/ritfest/2018/reunion/members/html_academy.png" title="HTML Academy" alt="HTML Academy" width="150"></td>
       <td>
         <b>Professional retraining program</b><br>"React. Development of complex client applications"
+        <a href="https://github.com/IDevFrye/IDevFrye/blob/main/VK_SystemDesign.jpg">Certificate</a>
+      </td>
+      <td>Aug 2024 - Jan 2025</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://i.otzovik.com/objects/b/2000000/1995390.png" title="Онлайн-школа Methed" alt="Онлайн-школа Methed" width="150"></td>
+      <td>
+        <b>Professional retraining program</b><br>"JavaScript (React) Frontend Developer"
       </td>
       <td>since Dec 2024</td>
     </tr>
