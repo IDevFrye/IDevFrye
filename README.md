@@ -75,7 +75,7 @@
     <tr>
       <td align="center"><img src="https://ritfest.ru/i/ritfest/2018/reunion/members/html_academy.png" title="HTML Academy" alt="HTML Academy" width="150"></td>
       <td>
-        <b>Professional retraining program</b><br>"React. Development of complex client applications"
+        <b>Professional retraining program</b><br>"React. Development of complex client applications"<br>
         <a href="https://github.com/IDevFrye/IDevFrye/blob/main/React_HTMLAcademy.pdf">Certificate</a>
       </td>
       <td>Aug 2024 - Jan 2025</td>
