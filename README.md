@@ -48,14 +48,7 @@
       <td>
         <b>Professional retraining program</b><br>"Fullstack Developer"
       </td>
-      <td>since May 2024</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://kts.tech/_next/static/images/logo-35c939f474fcfda1294ce3d82f49498c.png" title="KTS" alt="KTS" width="150"></td>
-      <td>
-        <b>Professional retraining program</b><br>"React Junior Frontend Developer"
-      </td>
-      <td>Sep 2024 - Nov 2024</td>
+      <td>May 2024 - July 2025</td>
     </tr>
     <tr>
       <td align="center"><img src="https://thb.tildacdn.com/tild3865-3333-4062-b562-393137393530/-/resize/504x/yadro_logo_w_new.png" title="Лаборатория Yadro" alt="Лаборатория Yadro" width="80"></td>
@@ -85,7 +78,7 @@
       <td>
         <b>Professional retraining program</b><br>"JavaScript (React) Frontend Developer"
       </td>
-      <td>since Dec 2024</td>
+      <td>Dec 2024 - Mar 2025</td>
     </tr>
   </tbody>
 </table>
